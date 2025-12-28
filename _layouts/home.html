@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+    <h2 class="page-heading">Recent Posts</h2>
+
+    <div class="post-list">
+        {% if site.posts.size > 0 %}
+            {% for post in site.posts %}
+                <article class="post-item">
+                    <h3 class="post-title">
+                        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                    </h3>
+                    <p class="post-meta">
+                        <time datetime="{{ post.date | date_to_xmlschema }}">
+                            {{ post.date | date: "%B %d, %Y" }}
+                        </time>
+                    </p>
+                    {% if post.excerpt %}
+                        <div class="post-excerpt">
+                            {{ post.excerpt }}
+                        </div>
+                    {% endif %}
+                    <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+                </article>
+            {% endfor %}
+        {% else %}
+            <p>No posts yet. Check back soon!</p>
+        {% endif %}
+    </div>
+</div>

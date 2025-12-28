@@ -1,0 +1,15 @@
+# Site settings
+title: 1X Engineering
+description: A blog about practical software engineering and getting things done
+author: Jiangwei Pan
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: /blog/:title/
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

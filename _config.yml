@@ -8,12 +8,6 @@ markdown: kramdown
 theme: minima
 permalink: /blog/:year/:month/:day/:title/
 
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /blog/:year/:month/:day/:title/
-
 # Exclude from processing
 exclude:
   - README.md

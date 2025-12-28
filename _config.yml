@@ -1,8 +1,7 @@
 # Site settings
 title: 1X Engineering
 description: A blog about practical software engineering and getting things done
-author: Your Name
-email: your-email@example.com
+author: Jiangwei Pan
 
 # Build settings
 markdown: kramdown

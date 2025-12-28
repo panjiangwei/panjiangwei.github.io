@@ -10,7 +10,7 @@ I'm a research scientist at Netflix, where I work on personalized home page cons
 
 ## Why This Blog?
 
-The industry talks a lot about 10x engineers, but here's the secret: you become a 10x engineer by doing 1x work consistently. Most engineers only achieve 0.1x output due to distractions, context switching, and chasing the latest trends.
+You become a 10x engineer by doing 1x work consistently—most engineers only manage 0.1x due to distractions, context switching, and chasing trends.
 
 ## Connect
 

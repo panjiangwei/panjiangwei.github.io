@@ -6,7 +6,7 @@ author: Jiangwei Pan
 # Build settings
 markdown: kramdown
 theme: minima
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 
 # Exclude from processing
 exclude:

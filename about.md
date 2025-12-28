@@ -8,9 +8,9 @@ Hi, I'm **Jiangwei Pan**.
 
 I'm a research scientist at Netflix, where I work on personalized home page construction algorithms.
 
-## Why This Blog?
+## Why 1X Engineering?
 
-You become a 10x engineer by doing 1x work consistently—most engineers only manage 0.1x due to distractions, context switching, and chasing trends.
+True 10x engineers are rare, but we can all strive to do 1x work consistently.
 
 ## Connect
 

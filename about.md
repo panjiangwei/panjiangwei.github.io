@@ -4,25 +4,13 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 Hi, I'm **Jiangwei Pan**.
 
-I'm a research scientist at Netflix, where I work on personalization algorithms. My focus is on building systems that help people find content they'll enjoy, at scale.
+I'm a research scientist at Netflix, where I work on personalized home page construction algorithms.
 
 ## Why This Blog?
 
-The software industry is full of hype cycles and buzzwords. This blog is about cutting through the noise and focusing on what actually matters: building systems that work, writing maintainable code, and shipping value to users.
-
-**1X Engineering** is a reminder that you don't need to be a "rockstar" or a "ninja" to be a good engineer. You just need to show up, do solid work, and keep learning.
-
-## What I Write About
-
-Expect posts on:
-- Practical algorithms and systems design
-- Real-world machine learning and personalization
-- Engineering fundamentals that stand the test of time
-- Lessons learned from building production systems
+The industry talks a lot about 10x engineers, but here's the secret: you become a 10x engineer by doing 1x work consistently. Most engineers only achieve 0.1x output due to distractions, context switching, and chasing the latest trends.
 
 ## Connect
 
